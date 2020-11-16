@@ -44,12 +44,12 @@ body {
 	min-height: 100%;
 }
 a {
-	color: #1b2228;
+	color: #1ccdca;
 	text-decoration: none;
 	outline: none;
 }
 a:hover {
-	color: #1b2228;
+	color: #1ccdca;
 }
 ::-webkit-selection {
  background: #1b2228;

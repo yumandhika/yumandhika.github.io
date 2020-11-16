@@ -688,7 +688,7 @@ th, .content table, caption, .small-dialog, .hm_tooltip-content1{
     border-right-color: rgba(0, 0, 0, 0);
 }
 .tabs1.fill_active .tabs-navi li:first-child a.selected, .tabs1.fill_active .tabs-navi li:first-child a:hover {
-    border-right: 1px solid #1ccdca;
+    border-right: 1px solid #1b2228;
 }
 .tabs1.fill_active .tabs-navi li:last-child a {
     border-radius: 3px 0 0;
@@ -790,7 +790,7 @@ th, .content table, caption, .small-dialog, .hm_tooltip-content1{
 }
 #comments .children {
     border-left: none;
-    border-right: 1px solid #1ccdca;
+    border-right: 1px solid #1b2228;
     padding-left: 0;
     padding-right: 45px;
 }

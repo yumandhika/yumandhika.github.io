@@ -301,7 +301,7 @@
 }
 
 .mejs-controls .mejs-time-rail .mejs-time-current {
-	background: #1CCDCA;
+	background: #1b2228;
 	width: 0;
 }
 /*.mejs-controls .mejs-time-rail .mejs-time-current:after {
@@ -458,7 +458,7 @@
 	top: 8px;
 	width: 2px;
 	height: 100px;
-	background: #1CCDCA;
+	background: #1b2228;
 	margin: 0;
 }
 
@@ -508,7 +508,7 @@
 	margin: 0;
 	padding: 0;
 	font-size: 1px;
-	background: #1CCDCA;
+	background: #1b2228;
 }
 .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current:after {
     background: #fff;

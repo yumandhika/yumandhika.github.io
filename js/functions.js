@@ -783,7 +783,7 @@
 					c2.camera({
 						height: '550px',
 						loader: 'bar',
-						loaderColor:"#1CCDCA",
+						loaderColor:"#1b2228",
 						loaderBgColor:"none",
 						loaderOpacity:0.7,
 						loaderPadding:0,
@@ -1249,8 +1249,8 @@
 				$(this).appear(function() {
 					var hm_delay = ($(this).attr("data-delay") ? $(this).attr("data-delay") : 1);
 					var hm_percenty = $(this).attr("data-percentag") ? $(this).attr("data-percentag") : 100;
-					var hm_startColor = $(this).attr("data-start-color") ? $(this).attr("data-start-color") : '#1CCDCA';
-					var hm_endColor = $(this).attr("data-end-color") ? $(this).attr("data-end-color") : '#1CCDCA';
+					var hm_startColor = $(this).attr("data-start-color") ? $(this).attr("data-start-color") : '#1b2228';
+					var hm_endColor = $(this).attr("data-end-color") ? $(this).attr("data-end-color") : '#1b2228';
 					var hm_animation = $(this).attr("data-animation") ? $(this).attr("data-animation") : 'easeInOut';
 					var hm_days_nums = $(this).attr("data-event") ? $(this).attr("data-event") : "";
 					

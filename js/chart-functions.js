@@ -45,7 +45,7 @@ var doughnutData = [
 				},
 				{
 					value: 50,
-					color: "#1CCDCA",
+					color: "#1b2228",
 					highlight: "#00BEBB",
 					label: "Green"
 				},
@@ -124,7 +124,7 @@ var pieData = [
 				},
 				{
 					value: 50,
-					color: "#1CCDCA",
+					color: "#1b2228",
 					highlight: "#00BEBB",
 					label: "Green"
 				},

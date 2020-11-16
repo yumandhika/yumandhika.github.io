@@ -126,7 +126,7 @@
 }
 
 .photostack nav span.current {
-	background: #1CCDCA;
+	background: #1b2228;
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
@@ -262,7 +262,7 @@ figure.photostack-current::after {
 /* Some custom styles for the demo */
 /* Since we don't have back sides for the first photo stack, we don't want the current dot to become too big */
 #photostack-1 nav span.current {
-	background: #1CCDCA;
+	background: #1b2228;
 	-webkit-transform: scale(0.61);
 	transform: scale(0.61);
 }

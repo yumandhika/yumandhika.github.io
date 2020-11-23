@@ -892,7 +892,7 @@ textarea:-moz-placeholder {
 	background-image: url("../images/bg_header1.jpg");
 }
 .bg_header2 {
-	background-image: url("../images/bg_header2.jpg");
+	background-image: url("../images/yuma-andhika-wpap.jpg");
 }
 .bg_header3 {
 	background-image: url("../images/bg_header3.jpg");
@@ -9880,28 +9880,28 @@ a.img_popup:after {
 	position: relative;
 }
 .wobbly_slide ul li > svg {
-	fill: #0072A5;
+	fill: #1B2228;
 	height: 100%;
 	position: absolute;
 	z-index: -1;
 }
 .wobbly_slide ul li:nth-child(2) > svg {
-	fill: #5F52B7;
+	fill: #1B2228;
 }
 .wobbly_slide ul li:nth-child(3) > svg {
-	fill: #F36A71;
+	fill: #1B2228;
 }
 .wobbly_slide ul li:nth-child(4) > svg {
-	fill: #9D9E94;
+	fill: #1B2228;
 }
 .wobbly_slide ul li:nth-child(5) > svg {
-	fill: #0CAEBF;
+	fill: #1B2228;
 }
 .wobbly_slide ul li:nth-child(6) > svg {
-	fill: #B853A3;
+	fill: #1B2228;
 }
 .wobbly_slide ul li:nth-child(7) > svg {
-	fill: #1BBC9B;
+	fill: #1B2228;
 }
 .wobbly_slide > nav span {
 	top: 50%;
